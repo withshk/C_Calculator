@@ -8,7 +8,7 @@ int main(void){
     printf("=========계산기 프로그램=========\n\n");
 
     double num1, num2;
-    char operator;
+    char operator; 
 
     double result = 0;
  
