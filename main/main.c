@@ -11,7 +11,7 @@ int main(void){
     char operator; 
   
     double result = 0;
- 
+  
     int first = 1;
 
     while(first){
