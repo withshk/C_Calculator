@@ -9,7 +9,7 @@ int main(void){
 
     double num1, num2;
     char operator; 
- 
+  
     double result = 0;
  
     int first = 1;
