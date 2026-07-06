@@ -3,7 +3,7 @@
 #include <math.h>
 
 
-
+ 
 int main(void){
     printf("=========계산기 프로그램=========\n\n");
 
@@ -11,7 +11,7 @@ int main(void){
     char operator;
 
     double result = 0;
-
+ 
     int first = 1;
 
     while(first){
