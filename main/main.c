@@ -13,7 +13,7 @@ int main(void){
     double result = 0;
   
     int first = 1;
-
+ 
     while(first){
         printf("계산할 값을 입력하세요.\n");
         if(scanf("%lf %c %lf", &num1, &operator, &num2) != 3){
