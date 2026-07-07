@@ -19,7 +19,7 @@ int main(void){
         if(scanf("%lf %c %lf", &num1, &operator, &num2) != 3){
 
         }
-    }
+    } 
   
     return 0;
 }
